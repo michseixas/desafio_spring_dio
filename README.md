@@ -1,1 +1,2 @@
-# desafio_spring_dio
+# Entrega do desafio de Spring do Bootcamp DIO Santander
+Este repositorio contém implementações de padrões de projeto usando o Spring Framework com base nas explicações do professor Venilton Falvo da DIO.
